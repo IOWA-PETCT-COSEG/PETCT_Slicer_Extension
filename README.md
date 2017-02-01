@@ -8,4 +8,4 @@ in PET-CT images with context information. IEEE transactions on medical imaging,
 If the software is used for research, please cite the above paper.
 
 The accompanying video has been uploaded to Youtube at
-https://youtu.be/sRlCCZpK3oQ
+https://youtu.be/sRlCCZpK3oQ   and https://github.com/IOWA-PETCT-COSEG/PETCT-COSEG-Video
